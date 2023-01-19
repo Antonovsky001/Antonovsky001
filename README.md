@@ -11,13 +11,13 @@ Latest
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=E9D54D)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=E5D3FF)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=6296CC)
-![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=Devtools&logoColor=00648B)
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 
-Testing Documentation
+### Testing Documentation
 
-[Chacklists]
-[Test-Suitestes and Test-Cases]
-[Bug-Reports]
+- [Checklists](https://github.com/antonovsky001/checklist)
+- [Test-Suites and Test-Cases](https://github.com/antonovsky001/test-cases)
+- [Bug-Reports](https://github.com/antonovsky001/bug-reports)
 
 ### Foolow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/antonovsky0012)
