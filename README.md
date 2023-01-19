@@ -10,6 +10,7 @@ Latest
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=E9D54D)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=E5D3FF)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=6296CC)
-![DevTools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=Devtools&logoColor=00648B)
+![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=Devtools&logoColor=00648B)
 
-Foolow me
+### Foolow me
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)(https://t.me/antonovsky0012)
