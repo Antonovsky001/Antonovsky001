@@ -15,7 +15,7 @@ Latest
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/antonovsky001/checklist)
+- [Checklists](https://github.com/Antonovsky001/Antonovsky001/tree/main/Checklist)
 - [Test-Suites and Test-Cases](https://github.com/antonovsky001/test-cases)
 - [Bug-Reports](https://github.com/antonovsky001/bug-reports)
 
