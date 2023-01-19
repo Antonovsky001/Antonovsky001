@@ -14,5 +14,3 @@ Latest
 
 ### Foolow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/antonovsky0012)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonovsky001)](https://github.com/anuraghazra/github-readme-stats)
