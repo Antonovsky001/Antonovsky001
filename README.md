@@ -2,7 +2,8 @@
 
 ## I'm a beginner QA Engeneer 
 
-Latest
+## My CV
+[Link to my CV](https://docs.google.com/document/d/1JC3PATlCFlhf_W8A3ThjAIoODXl9jube/edit)
 
 ### Languages and Tools
 ![Youtrack](https://img.shields.io/badge/-Youtrack-090909?style=for-the-badge&logo=Youtrack&logoColor=47C5FB)
@@ -21,3 +22,5 @@ Latest
 
 ### Foolow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/antonovsky0012)
+
+https://drive.google.com
