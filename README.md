@@ -13,4 +13,4 @@ Latest
 ![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=Devtools&logoColor=00648B)
 
 ### Foolow me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)(https://t.me/antonovsky0012)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/antonovsky0012)
