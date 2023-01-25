@@ -1,6 +1,6 @@
 ![Header](https://github.com/Antonovsky001/Antonovsky001/blob/main/assets/header.png)
 
-## I'm a beginner QA Engineer 
+## I'm a Junior QA Engineer 
 
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1JC3PATlCFlhf_W8A3ThjAIoODXl9jube/edit)
